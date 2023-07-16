@@ -2,7 +2,7 @@
 
 This is a simple example of how to create and use containers with docker.
 
-to use my image you can simply write in your terminal docker run -p [your-desired-port]:80 sha256:dcc220f8216e5167d46688d9e2bda17e6b05512e9a6ef1a4414eb8c593195b51
+to use my image you can simply write in your terminal docker run -p [your-desired-port]:80 sha256:7772bc8185ba6856d04149486e3054d443d2a35211a270c659dbee5842752531
 
 if you want to build you need to go to terminal and write 'docker build .'
 
